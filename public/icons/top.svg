@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="43" viewBox="0 0 36 43">
+  <g id="top" transform="translate(-1304 -4387)">
+    <g id="Component_2_14" data-name="Component 2 – 14" transform="translate(1334 4387) rotate(90)">
+      <g id="Group_7" data-name="Group 7" transform="translate(397.936 125) rotate(90)">
+        <rect id="Rectangle_6" data-name="Rectangle 6" width="24" height="24" transform="translate(-125 373.936)" fill="none"/>
+        <g id="down-chevron" transform="translate(-123.022 379.934)">
+          <g id="Group_4" data-name="Group 4" transform="translate(0 0)">
+            <path id="Path_2" data-name="Path 2" d="M17.447,48.907,9.889,56.464,2.332,48.907,0,51.239l9.889,9.889,9.889-9.889Z" transform="translate(0 -48.907)" fill="#111"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="TOP-2" data-name="TOP" transform="translate(1322 4426)" fill="#111" font-size="16" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="-17.28" y="0">TOP</tspan></text>
+  </g>
+</svg>
